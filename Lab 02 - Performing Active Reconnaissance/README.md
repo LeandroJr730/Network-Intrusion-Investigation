@@ -6,6 +6,8 @@
   </ul> 
 </div>
 
+[here](Network-Intrusion-Investigation/Lab 02 - Performing Active Reconnaissance/Lab_02 Performing_Active_Reconnaissance Leandro_Junior.pdf)
+
 ## 📝 What I did
 * Scanned a network to find live hosts and open ports.
 * Captured network traffic to see how scans work.
